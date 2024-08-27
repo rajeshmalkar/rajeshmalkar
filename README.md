@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I am a dedicated **Full Stack Developer** speciali
 ### 2. [E-Commerce](https://github.com/rajeshmalkar/E-Commerce-App)
    - **Description:** E-Commerce App is a comprehensive online shopping platform designed for a seamless user experience. It offers intuitive product browsing, secure cart management, and a smooth checkout process. Integrated with Razorpay, the app ensures secure and efficient online transactions, providing a reliable payment experience.
    - **Technologies:** Python, Django, MYSQL, Html/CSS, JavaScript, Bootstrap5, API 
-   - **Features:**Product Browsing, Cart Management, Checkout, Order Tracking, User Accounts.
+   - **Features:** Product Browsing, Cart Management, Checkout, Order Tracking, User Accounts.
 
 ### 3. [Blood Bank](https://github.com/rajeshmalkar/Blood-Bank )
    - **Description:** Blood Bank App is a comprehensive platform for managing blood donations and requests. It offers functionalities for scheduling donations, tracking blood requests, and managing blood inventory efficiently.
