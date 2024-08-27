@@ -1,4 +1,4 @@
-![Banner Image](https://your-image-url.com/banner.png)
+![Banner Image](https://github.com/rajeshmalkar/rajeshmalkar/blob/main/banner.jpg)
 
 # Hi there, I'm Rajesh 👋
 
