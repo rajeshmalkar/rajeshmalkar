@@ -1,38 +1,36 @@
 ![Banner Image](https://your-image-url.com/banner.png)
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Rajesh 👋
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** dedicated to building scalable and efficient web applications. Below is a brief overview of my skills, projects, and how to connect with me.
+Welcome to my GitHub profile! I am a dedicated **Full Stack Developer** specializing in crafting robust and scalable web applications. Below is a snapshot of my skills, key projects, and how to connect with me.
 
 ## 🚀 About Me
 
 - 🎓 **Full Stack Developer** with experience in modern web technologies.
-- 🌱 Currently exploring advanced DevOps practices and cloud architecture.
-- 🛠️ Skilled in Python, JavaScript, and related frameworks.
+- 🌱 Currently exploring advanced Python Libraries and DSA.
+- 🛠️ Skilled in Python, Django, JavaScript and related frameworks.
 - 🎨 Passionate about clean, maintainable code and user-centric design.
 
 ## 🛠️ My Skill Set
 
 ### Languages & Frameworks
 
-- **Python** ![Python](https://img.shields.io/badge/Python-Expert-blue)
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)
-- **Django** ![Django](https://img.shields.io/badge/Django-Expert-green)
-- **React** ![React](https://img.shields.io/badge/React-Intermediate-blue)
-- **HTML/CSS** ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Advanced-orange)
+- **Python**
+- **JavaScript**
+- **Django**
+- **HTML/CSS**
+- **Java** 
+
 
 ### Tools & Technologies
 
-- **Git & GitHub** ![Git](https://img.shields.io/badge/Git-Expert-orange)
-- **Docker** ![Docker](https://img.shields.io/badge/Docker-Intermediate-blue)
-- **AWS** ![AWS](https://img.shields.io/badge/AWS-Intermediate-yellow)
-- **CI/CD** ![CI/CD](https://img.shields.io/badge/CI%2FCD-Advanced-green)
+- **Git & GitHub** 
+- **AWS**
+- **VS Code**
 
 ### Databases
 
-- **PostgreSQL** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-blue)
-- **MySQL** ![MySQL](https://img.shields.io/badge/MySQL-Advanced-orange)
-- **MongoDB** ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-green)
+- **MySQL** 
 
 ## 🔥 My GitHub Stats
 
@@ -40,27 +38,27 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** dedicate
 
 ## 🚀 Featured Projects
 
-### 1. [Project 1](https://github.com/your-username/project1)
-   - **Description:** A brief description of your project.
-   - **Technologies:** Python, Django, React
-   - **Features:** Highlight key features or innovations.
+### 1. [healthy7 ](https://github.com/rajeshmalkar/healthy7)
+   - **Description:** Health App is a comprehensive mobile application designed to streamline healthcare management by facilitating easy scheduling and tracking of medical appointments and checkup routines. The app aims to improve patient engagement, enhance healthcare outcomes, and simplify the overall management of personal health.
+   - **Technologies:** Python, Django, MYSQL, Html/CSS, JavaScript, Bootstrap5
+   - **Features:** Appointment Scheduling, Checkup Routines, Provider Integration, User-Friendly Interface.
 
-### 2. [Project 2](https://github.com/your-username/project2)
-   - **Description:** A brief description of your project.
-   - **Technologies:** Node.js, Express, MongoDB
-   - **Features:** Highlight key features or innovations.
+### 2. [E-Commerce](https://github.com/rajeshmalkar/E-Commerce-App)
+   - **Description:** E-Commerce App is a comprehensive online shopping platform designed for a seamless user experience. It offers intuitive product browsing, secure cart management, and a smooth checkout process. Integrated with Razorpay, the app ensures secure and efficient online transactions, providing a reliable payment experience.
+   - **Technologies:** Python, Django, MYSQL, Html/CSS, JavaScript, Bootstrap5, API 
+   - **Features:**Product Browsing, Cart Management, Checkout, Order Tracking, User Accounts.
 
-### 3. [Project 3](https://github.com/your-username/project3)
-   - **Description:** A brief description of your project.
-   - **Technologies:** Flask, PostgreSQL, Docker
-   - **Features:** Highlight key features or innovations.
+### 3. [Blood Bank](https://github.com/rajeshmalkar/Blood-Bank )
+   - **Description:** Blood Bank App is a comprehensive platform for managing blood donations and requests. It offers functionalities for scheduling donations, tracking blood requests, and managing blood inventory efficiently.
+   - **Technologies:** Python, Django, MYSQL, Html/CSS, JavaScript, Bootstrap5 
+   - **Features:** Donation Scheduling, Request Management, Inventory Tracking, User Accounts.
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/your-twitter-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-website.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rajesh-malkar-204904210/))
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/rajeshpatil280)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](raj-malkar-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:rajeshmalkar7@gmail.com)
 
 ## 📈 Contribution Stats
 
