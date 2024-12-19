@@ -53,6 +53,11 @@ Welcome to my GitHub profile! I am a dedicated **Full Stack Developer** speciali
    - **Technologies:** Python, Django, MYSQL, Html/CSS, JavaScript, Bootstrap5 
    - **Features:** Donation Scheduling, Request Management, Inventory Tracking, User Accounts.
 
+### 4. [Sport Academy](https://github.com/rajeshmalkar/ )
+   - **Description:**  Sport Academy is an advanced platform designed to streamline sports management for academies. It provides a responsive interface for user authentication, multi-sport registration, and efficient team management. The platform also focuses on enhanced UI, improved site loading speed, and a seamless user experience.
+   - **Technologies:** Python, Django, MYSQL, Html/CSS, JavaScript, Bootstrap5 
+   - **Features:** Responsive Design, User Authentication, Multi-Sport Registration, Team Management, Dynamic Dashboard Adjusting to Selected Sports for Single Users, Performance Optimization, Logo Uploads.
+
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rajesh-malkar-204904210/))
