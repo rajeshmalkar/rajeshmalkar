@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I am a dedicated **Full Stack Developer** speciali
 ## 🚀 Featured Projects
 
 ### 1. [healthy7 ](https://github.com/rajeshmalkar/healthy7)
-   - **Description:** Health App is a comprehensive mobile application designed to streamline healthcare management by facilitating easy scheduling and tracking of medical appointments and checkup routines. The app aims to improve patient engagement, enhance healthcare outcomes, and simplify the overall management of personal health.
+   - **Description:** Health App is a comprehensive website designed to streamline healthcare management by facilitating easy scheduling and tracking of medical appointments and checkup routines. The app aims to improve patient engagement, enhance healthcare outcomes, and simplify the overall management of personal health.
    - **Technologies:** Python, Django, MYSQL, Html/CSS, JavaScript, Bootstrap5
    - **Features:** Appointment Scheduling, Checkup Routines, Provider Integration, User-Friendly Interface.
 
