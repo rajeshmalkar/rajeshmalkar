@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I am a dedicated **Full Stack Developer** speciali
 
 ## 🔥 My GitHub Stats
 
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+[![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?rajeshmalkar=rajeshmalkar&show_icons=true&theme=radical)](https://github.com/rajeshmalkar)
 
 ## 🚀 Featured Projects
 
